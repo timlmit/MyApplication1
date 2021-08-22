@@ -23,7 +23,7 @@
 
     <include
         layout="@layout/content_main"
-        android:background="#FFEB3B" />
+        android:background="#FFFFFF" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
